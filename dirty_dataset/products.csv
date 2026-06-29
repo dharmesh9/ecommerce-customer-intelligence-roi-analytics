@@ -1,0 +1,31 @@
+product_id,product_name,category,supplier,cost_price,sell_price,margin_pct,weight_kg,demand_rank
+P001,Wireless Earbuds Pro,Audio,Novatech Supply,14.0,49.99,72.0,0.15,1
+P002,Bluetooth Speaker Mini,Audio,NovaTech Supply,18.0,59.99,70.0,0.4,1
+P003,Smart Watch Fitness,Wearables,Nova Tech Supply,55.0,139.99,60.7,0.08,1
+P004,Smart Plug 4-Pack,Smart Home,novatech supply,11.0,34.99,68.6,0.25,2
+P005,USB-C Hub 7-in-1,Accessories,TechCore Ltd,9.5,34.99,72.8,,1
+P006,Laptop Stand Aluminium,Accessories,TechCore Ltd,12.0,39.99,70.0,0.8,1
+P007,Webcam 1080p HD,Peripherals,TechCore Ltd,20.0,54.99,63.6,0.3,1
+P008,Power Bank 20000mAh,Accessories,Techcore Ltd,15.0,11.71,66.7,0.45,1
+P009,Desk Pad XL,Accessories,TechCore Ltd,10.0,29.99,66.7,0.6,2
+P010,Noise Cancel Headphones,Audio,TechCore Ltd,48.0,38.98,63.1,0.28,2
+P011,Mechanical Keyboard TKL,Peripherals,EliteComponents,35.0,89.99,61.1,,1
+P012,Gaming Mouse RGB,Peripherals,Elite components,-17.0,44.99,62.2,0.18,1
+P013,Portable SSD 1TB,Storage,EliteComponents,40.0,89.99,55.6,,2
+P014,Docking Station USB-C,Accessories,EliteComponents,45.0,109.99,59.1,0.55,2
+P015,Microphone USB Condenser,Audio,Elite Components,42.0,99.99,58.0,0.55,3
+P016,27in Monitor 4K,Displays,BrightGadgets,138.0,319.99,56.9,6.5,2
+P017,Smart LED Desk Lamp,Lighting,BrightGadgets,14.0,42.99,67.4,0.9,3
+P018,Action Camera 4K,Cameras,Bright gadgets,72.0,169.99,57.6,0.35,3
+P019,Ring Light 10in,Lighting,BrightGadgets,19.0,54.99,65.4,1.2,3
+P020,Laptop Cooling Pad,Accessories,BrightGadgets,11.0,32.99,66.7,0.7,3
+P021,VR Headset Standalone,Gaming,brightgadgets,140.0,299.99,53.3,,4
+P022,Laptop Sleeve 15in,Accessories,ValueSource Co,6.0,19.99,70.0,0.25,3
+P023,Cable Management Kit,Accessories,ValueSource Co,3.8,12.99,70.7,0.3,3
+P024,Phone Stand Adjustable,Accessories,Value Source Co,2.8,9.99,72.0,0.15,2
+P025,Screen Cleaning Kit,Accessories,ValueSource Co,1.5,7.99,81.2,0.1,2
+P026,HDMI Cable 2m,Accessories,ValueSource Co,2.2,8.99,75.5,0.08,2
+P027,Cable Clips Pack 50,Accessories,ValueSource Co,1.0,5.99,83.3,0.08,3
+P028,Gaming Chair Ergonomic,Furniture,ValueSource Co,155.0,349.99,55.7,18.0,4
+P029,Thermal Paste Premium,PC Parts,EliteComponents,3.0,9.99,70.0,0.05,4
+P030,Webcam 4K Pro,Peripherals,TechCore Ltd,58.0,149.99,61.3,0.35,3
